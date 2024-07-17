@@ -39,7 +39,7 @@ COLOR_NAMES = {
     # Orange Colors
     "Orange": [(255, 165, 0)],
     "Dark Orange": [(255, 140, 0)],
-    "Gold": [(255, 215, 0)],
+    "Gold": [(255, 215, 0), (255, 207, 75)],
     "Light Orange": [(255, 200, 0)],
     "Khaki": [(240, 230, 140)],
     "Dark Khaki": [(189, 183, 107)],
